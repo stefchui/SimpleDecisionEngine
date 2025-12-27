@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Simple.DecisionEngine.App": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

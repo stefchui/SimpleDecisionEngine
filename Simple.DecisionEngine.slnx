@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Simple.DecisionEngine.App/Simple.DecisionEngine.App.csproj" />
+  <Project Path="src/Simple.DecisionEngine.Core/Simple.DecisionEngine.Core.csproj" />
+  <Project Path="src/Simple.DecisionEngine.Infrastructure/Simple.DecisionEngine.Infrastructure.csproj" />
+  <Project Path="tests/Simple.DecisionEngine.Tests/Simple.DecisionEngine.Tests.csproj" />
+</Solution>

@@ -1,0 +1,9 @@
+/.vs
+/src/Simple.DecisionEngine.App/bin
+/src/Simple.DecisionEngine.App/obj
+/src/Simple.DecisionEngine.Core/obj
+/src/Simple.DecisionEngine.Infrastructure/obj
+/tests/Simple.DecisionEngine.Tests/bin
+/tests/Simple.DecisionEngine.Tests/obj
+/src/Simple.DecisionEngine.Infrastructure/bin
+/src/Simple.DecisionEngine.Core/bin
